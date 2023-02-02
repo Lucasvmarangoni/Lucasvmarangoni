@@ -1,6 +1,6 @@
 
 
-<img align="left" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasvmarangoni&layout=compact&theme=dark"/>
+<img align="left" width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasvmarangoni&layout=compact&theme=dark"/>
 <h1 align="left">Oi, eu sou Lucas</h1>
 
 <p align="left">
