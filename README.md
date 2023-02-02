@@ -1,6 +1,6 @@
 
 
-<img align="right" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasvmarangoni&layout=compact&theme=dark"/>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasvmarangoni&layout=compact&theme=dark"/>
 <h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou Lucas</h1>
 
 Sou desenvolvedor back-end e estou estudando para me tornar engenheiro de software.
