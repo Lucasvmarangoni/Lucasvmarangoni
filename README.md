@@ -14,10 +14,10 @@ Sou desenvolvedor back-end e estou estudando para me tornar engenheiro de softwa
 
 <div align="center">
 <a href="https://lucasvmarangoni.vercel.app/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-lucasvmarangoni-05122A?style=flat&logo=vercel" alt="vercel"/>
+  <img align="center" src="https://img.shields.io/badge/-Portfólio-05122A?style=flat&logo=vercel" alt="vercel"/>
 </a>
 <a href="https://www.linkedin.com/in/lucasvmarangoni/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-lucasvmarangoni-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 </div>
 
