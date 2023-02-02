@@ -2,7 +2,7 @@
 
 <img align="left" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasvmarangoni&layout=compact&theme=dark"/>
 
-## Oi, eu sou Lucas
+# Bem vindo ao meu perfil do Github
 
 <p align="left">
 Sou desenvolvedor back-end e estou estudando para me tornar engenheiro de software.
