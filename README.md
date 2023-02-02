@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**Lucasvmarangoni/Lucasvmarangoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img align="right" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasvmarangoni&layout=compact&theme=dark"/>
+<h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou Lucas</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou desenvolvedor back-end e estou estudando para me tornar engenheiro de software.
+
+⚒ No momento estou desenvolvendo o projeto: <a href="https://github.com/Lucasvmarangoni/TasksList">TasksList</a>
+
+<p align="left" style="background:yellow">
+<a href="https://lucasvmarangoni.vercel.app/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-lucasvmarangoni-05122A?style=flat&logo=vercel" alt="vercel"/>
+</a>
+<a href="https://www.linkedin.com/in/lucasvmarangoni/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-lucasvmarangoni-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+</p>
+
+
+
