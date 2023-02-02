@@ -1,10 +1,13 @@
 
 
-<img align="left" width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasvmarangoni&layout=compact&theme=dark"/>
-<h1 align="left">Oi, eu sou Lucas</h1>
+<img align="left" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasvmarangoni&layout=compact&theme=dark"/>
+<h2 align="left">Oi, eu sou Lucas</h2>
 
 <p align="left">
 Sou desenvolvedor back-end e estou estudando para me tornar engenheiro de software.
+</p>
+
+<p align="left">
 ⚒ No momento estou desenvolvendo o projeto: <a href="https://github.com/Lucasvmarangoni/TasksList">TasksList</a>
 </p>
 
