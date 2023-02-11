@@ -9,7 +9,7 @@ Sou desenvolvedor back-end e estou estudando para me tornar engenheiro de softwa
 </p>
 
 <p align="left">
-⚒ No momento estou desenvolvendo o projeto: <a href="https://github.com/Lucasvmarangoni/TasksList">TasksList</a>
+⚒ No momento estou desenvolvendo o projeto: <a href="https://github.com/Lucasvmarangoni/TaskList">TaskList</a>
 </p>
 
 <div align="center">
