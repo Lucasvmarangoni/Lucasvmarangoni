@@ -5,7 +5,7 @@
 ## Bem vindo ao meu perfil no Github
 
 <p align="left">
-Sou desenvolvedor back-end e estou estudando para me tornar engenheiro de software.
+Sou desenvolvedor back-end e estou estudando para me aperfeiçoar como engenheiro de software.
 </p>
 
 <p align="left">
