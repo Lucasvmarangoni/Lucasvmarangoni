@@ -8,6 +8,12 @@
 Sou desenvolvedor back-end e estou estudando para me aperfeiçoar como engenheiro de software.
 </p>
 
+
+
+<p align="left">
+⚒ Estou desenvolvendo o projeto: <a href="https://github.com/Lucasvmarangoni/TIMER">Timer</a>
+</p>
+
 <p align="left">
 Meu último projeto: <a href="https://github.com/Lucasvmarangoni/TaskList">TaskList</a>
 </p>
