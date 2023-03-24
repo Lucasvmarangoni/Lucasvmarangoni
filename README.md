@@ -8,7 +8,9 @@
 Sou desenvolvedor back-end e estou estudando para me aperfeiçoar como engenheiro de software.
 </p>
 
-
+<p align="left">
+Nesse momento estou construindo o projeto: <a href="https://github.com/Lucasvmarangoni/Best-Surf">Best Surf</a>
+</p>
 <p align="left">
 Meu último projeto: <a href="https://github.com/Lucasvmarangoni/TaskList">TaskList</a>
 </p>
