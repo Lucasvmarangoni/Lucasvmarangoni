@@ -4,9 +4,6 @@
 
 ## Bem vindo ao meu perfil no Github
 
-<p align="left">
-Sou desenvolvedor back-end e estou estudando para me aperfeiçoar como engenheiro de software.
-</p>
 
 <p align="left">
 Estou construindo o projeto: <a href="https://github.com/Lucasvmarangoni/Best-Surf">Best-Surfing</a>
@@ -14,6 +11,8 @@ Estou construindo o projeto: <a href="https://github.com/Lucasvmarangoni/Best-Su
 <p align="left">
 Meu último projeto: <a href="https://github.com/Lucasvmarangoni/TaskList">TaskList</a>
 </p>
+
+<br>
 
 <div align="center">
   <a href="https://lucasvmarangoni.vercel.app/" target="_blank">
