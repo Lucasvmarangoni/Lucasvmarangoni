@@ -6,10 +6,10 @@
 
 
 <p align="left">
-Estou construindo o projeto: <a href="https://github.com/Lucasvmarangoni/Best-Surf">Best-Surfing</a>
+Meu projeto pessoal: <a href="https://github.com/Lucasvmarangoni/TaskList">TaskList</a>  
 </p>
 <p align="left">
-Meu último projeto: <a href="https://github.com/Lucasvmarangoni/TaskList">TaskList</a>
+Atualmente estou construindo o projeto: <a href="https://github.com/Lucasvmarangoni/Best-Surf">Best-Surfing</a>
 </p>
 
 <br>
