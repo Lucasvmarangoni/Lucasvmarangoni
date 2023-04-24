@@ -5,9 +5,9 @@
 ## Bem vindo ao meu perfil no Github
 
 
-<p align="left">
-Meu projeto pessoal: <a href="https://github.com/Lucasvmarangoni/TaskList">TaskList</a>  &#9733;
-</p>
+<p align="left"> 
+Meu projeto pessoal: <a href="https://github.com/Lucasvmarangoni/TaskList">TaskList</a> ✬ 
+</p> 
 <p align="left">
 Atualmente estou construindo o projeto: <a href="https://github.com/Lucasvmarangoni/Best-Surf">Best-Surfing</a>
 </p>
