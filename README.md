@@ -9,7 +9,7 @@
 Meu projeto pessoal: <a href="https://github.com/Lucasvmarangoni/TaskList">TaskList</a> &#9733;
 </p> 
 <p align="left">
-Atualmente estou construindo o projeto: <a href="https://github.com/Lucasvmarangoni/Best-Surf">Best-Surfing</a>
+Atualmente estou construindo o projeto: <a href="https://github.com/Lucasvmarangoni/Best-Surf">Best-Surf</a>
 </p>
 
 <br>
