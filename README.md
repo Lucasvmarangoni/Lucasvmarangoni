@@ -6,7 +6,7 @@
 
 
 <p align="left"> 
-Meu projeto pessoal: <a href="https://github.com/Lucasvmarangoni/TaskList">TaskList</a> &#9733;
+Meu projeto pessoal node.js: <a href="https://github.com/Lucasvmarangoni/TaskList">TaskList</a> &#9733;
 </p> 
 <p align="left">
 Atualmente estou construindo o projeto: <a href="https://github.com/Lucasvmarangoni/Best-Surf">Best-Surf</a>
