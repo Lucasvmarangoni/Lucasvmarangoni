@@ -9,7 +9,7 @@
 Projeto pessoal (Node.js): <a href="https://github.com/Lucasvmarangoni/TaskList">TaskList</a> &#9733;
 </p> 
 <p align="left">
-Atualmente estou construindo o projeto: <a href="https://github.com/Lucasvmarangoni/Best-Surf">Best-Surf</a>
+Ultimo projeto: <a href="https://github.com/Lucasvmarangoni/Best-Surf">Best-Surf</a>
 </p>
 <p align="left">
 Estou participando no desenvolvimento do projeto: <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t2-grupo-2-paiva-moto-pecas">Paiva Moto Peças</a>
