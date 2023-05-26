@@ -8,7 +8,6 @@
 Ultimo projeto: <a href="https://github.com/Lucasvmarangoni/Best-Surf">Best-Surf</a>
 </p>
 
-Atualmente:
 <p align="left">
 Estou desenvolvimento a versão 2.1.0 do projeto <a href="https://github.com/Lucasvmarangoni/TaskList">TaskList</a>
 </p>
