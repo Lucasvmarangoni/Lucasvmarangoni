@@ -4,15 +4,11 @@
 
 ## Bem vindo ao meu perfil no Github
 
-<p align="left">
-Ultimo projeto: <a href="https://github.com/Lucasvmarangoni/Best-Surf">Best-Surf</a>
-</p>
 
+#### Destaques:
 <p align="left">
-Estou desenvolvimento a versão 2.1.0 do projeto <a href="https://github.com/Lucasvmarangoni/TaskList">TaskList</a>
-</p>
-<p align="left">
-Estou participando no desenvolvimento do projeto <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t2-grupo-2-paiva-moto-pecas">Paiva Moto Peças</a>
+- <a href="https://github.com/Lucasvmarangoni/TaskList">TaskList (v2.1.0)</a> <br>
+- <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t2-grupo-2-paiva-moto-pecas">Paiva Moto Peças</a>
 </p>
 
 
