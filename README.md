@@ -4,6 +4,7 @@
 
 ## Bem vindo ao meu perfil no Github
 
+Desenvolvendo: <a href="https://github.com/Lucasvmarangoni/currency-converter">Currency Converter (v1.0.0)</a> <br>
 
 #### Destaques:
 <p align="left">
