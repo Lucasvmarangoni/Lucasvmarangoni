@@ -1,6 +1,6 @@
 
 
-<img align="left" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasvmarangoni&layout=compact&theme=dark"/>
+<img align="left" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasvmarangoni&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8"/>
 
 ## Bem vindo ao meu perfil no Github
 
@@ -16,10 +16,10 @@ Desenvolvendo: <a href="https://github.com/Lucasvmarangoni/currency-converter">C
 
 <div align="center">
   <a href="https://www.codewars.com/users/Ldragk" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Codewar-00000A?style=flat&logo=codewars" alt="Codewar"/>
+    <img align="center" src="https://img.shields.io/badge/-Codewar-05122A?style=flat&logo=codewars" alt="Codewar"/>
   </a>
   <a href="https://leetcode.com/Lucasvmarangoni/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Leetcode-00000A?style=flat&logo=leetcode" alt="leetcode"/>
+    <img align="center" src="https://img.shields.io/badge/-Leetcode-05122A?style=flat&logo=leetcode" alt="leetcode"/>
   </a>
 </div>
 
