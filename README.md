@@ -5,7 +5,9 @@
 ## Bem vindo ao meu perfil no Github
 
 #### Construindo: 
-- <a href="https://github.com/Lucasvmarangoni/video-encoder">Video encoder</a> <br>
+<p>
+  - <a href="https://github.com/Lucasvmarangoni/video-encoder">Video encoder</a> <br>
+</p>
 
 #### Destaques:
 <p align="left">
