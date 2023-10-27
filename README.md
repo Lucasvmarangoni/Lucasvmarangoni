@@ -4,9 +4,9 @@
 
 ## Bem vindo ao meu perfil no Github
 
-#### Construindo: 
+#### Em manutenção: 
 <p>
-  - <a href="https://github.com/Lucasvmarangoni/video-encoder">Video encoder</a> <br>
+  - <a href="[https://github.com/Lucasvmarangoni/video-encoder](https://github.com/Lucasvmarangoni/currency-converte)">Currency Converter</a> <br>
 </p>
 
 #### Destaques:
