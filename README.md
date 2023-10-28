@@ -6,7 +6,7 @@
 
 #### Em manutenção: 
 <p>
-  - <a href="https://github.com/Lucasvmarangoni/currency-converte">Currency Converter</a> <br>
+  - <a href="https://github.com/Lucasvmarangoni/currency-converter">Currency Converter (v1.1.0)</a>  <br>
 </p>
 
 #### Destaques:
