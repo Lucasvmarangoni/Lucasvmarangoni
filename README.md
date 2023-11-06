@@ -4,6 +4,8 @@
 
 ## Bem vindo ao meu perfil no Github
 
+**Desenvolvendo:** <a href="https://github.com/Lucasvmarangoni/sistema-de-documentos-financeiros">Sistema de documentos financeiros (v1.0.0)</a> <br>
+
 #### Destaques:
 <p align="left">
 - <a href="https://github.com/Lucasvmarangoni/currency-converter">Currency Converter (v1.1.0)</a> <br>
