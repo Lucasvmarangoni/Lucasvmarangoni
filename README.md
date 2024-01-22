@@ -16,5 +16,5 @@
 #### Bibliotecas
 
 <p align="left">
-- <a href="https://github.com/Lucasvmarangoni/errcontext">errcontext</a> <br>
+- <a href="https://github.com/Lucasvmarangoni/logella">Logella</a> <br>
 </p>
