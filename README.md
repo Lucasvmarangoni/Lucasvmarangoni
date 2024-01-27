@@ -2,7 +2,7 @@
 
 ## Bem vindo ao meu perfil no Github
 
-**Desenvolvendo:** <a href="https://github.com/Lucasvmarangoni/sistema-de-documentos-financeiros">Financial file manager (v1.0.0)</a>  ( Go )<br>
+**Desenvolvendo:** <a href="https://github.com/Lucasvmarangoni/sistema-de-documentos-financeiros">Financial file manager</a>  ( Go )<br>
 
 #### Principais Projetos:
 <p align="left">
