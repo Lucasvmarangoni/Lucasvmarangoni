@@ -7,7 +7,7 @@ Além disso, me dedico a segurança da informação, mais especificamente em seg
 Sou também advogado, pós graduado em direito digital e especializado em proteção e privacidade de dados. 
 Com isso, me organizo de forma a conciliar essas habilidades para que se potencializem. 
 
-📄 <a href="https://lucasvmarangoni.vercel.app/curriculo-lucasvmarangoni.pdf">Currículo</a> <br>
+<a href="https://lucasvmarangoni.vercel.app/curriculo-lucasvmarangoni.pdf">Currículo</a> <br>
 
 #### Principais Projetos:
 <p align="left">
