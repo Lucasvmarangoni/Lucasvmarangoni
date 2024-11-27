@@ -1,4 +1,4 @@
-<img align="left" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasvmarangoni&layout=donut-vertical&theme=dark&hide_border=true&bg_color=0d1117&langs_count=10"/>
+<img align="left" width="470em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasvmarangoni&layout=donut-vertical&theme=dark&hide_border=true&bg_color=0d1117&langs_count=10"/>
 
 ## Bem vindo ao meu perfil no Github
 
