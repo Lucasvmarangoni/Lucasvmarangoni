@@ -2,6 +2,8 @@
 
 ## Bem vindo ao meu perfil no Github
 
+📄 <a href="https://lucasvmarangoni.vercel.app/curriculo-lucasvmarangoni.pdf">Currículo</a> <br>
+
 #### Principais Projetos:
 <p align="left">
 - <a href="https://github.com/Lucasvmarangoni/sistema-de-documentos-financeiros">Financial file manager</a>  ( Go )<br>
