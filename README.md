@@ -3,9 +3,10 @@
 ## Bem vindo ao meu perfil no Github
 
 Sou desenvolvedor backend com habilidades em engenharia e arquitetura de software e banco de dados. 
-Além disso, me dedico a segurança da informação, mais especificamente em segurança cibernética ofensiva, área que sempre me identifiquei. 
+Além disso, estou me dedicando a segurança da informação, mais especificamente em segurança cibernética ofensiva, área que sempre me identifiquei. 
 Sou também advogado, pós graduado em direito digital e especializado em proteção e privacidade de dados. 
-Com isso, me organizo de forma a conciliar essas habilidades para que se potencializem. 
+Com isso, me organizo de forma a conciliar essas habilidades para que se potencializem.
+
 
 <a href="https://lucasvmarangoni.vercel.app/curriculo-lucasvmarangoni.pdf">Currículo</a> <br>
 
