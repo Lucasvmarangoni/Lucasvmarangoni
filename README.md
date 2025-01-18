@@ -20,9 +20,3 @@ Com isso, me organizo de forma a conciliar essas habilidades para que se potenci
 <p align="left">
 - <a href="https://github.com/Lucasvmarangoni/logella">Logella</a> ( Go ) <br>
 </p>
-
-#### Artigos
-<p align="left">
-- <a href="https://medium.com/@lucasvm.ti/desenvolvimento-voltado-para-a-auditoria-em-software-0d15c56bf99c">Desenvolvimento voltado para a auditoria em Software.</a> <br>
-- <a href="https://medium.com/@lucasvm.ti/erros-e-logs-4e1fcd79a937">Como configurar erros e logs corretamente.</a> <br>
-</p>
