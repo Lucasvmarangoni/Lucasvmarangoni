@@ -2,10 +2,9 @@
 
 ## Bem vindo ao meu perfil no Github
 
-Sou desenvolvedor backend com habilidades em engenharia e arquitetura de software e banco de dados. 
-Estou me dedicando a segurança da informação, mais especificamente em segurança cibernética ofensiva, atualmente no caminho para obter a certificação CPTS. 
+Sou desenvolvedor backend com habilidades em engenharia e arquitetura de software e design de banco de dados. 
+Estou me dedicando a segurança da informação, mais especificamente em segurança cibernética ofensiva. 
 Sou também advogado, pós graduado em direito digital e especializado em proteção e privacidade de dados. 
-Com isso, me organizo de forma a conciliar essas habilidades para que se potencializem.
 
 <a href="https://lucasvmarangoni.vercel.app/curriculo-lucasvmarangoni.pdf">Currículo</a> <br>
 
