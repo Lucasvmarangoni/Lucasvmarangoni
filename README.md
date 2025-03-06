@@ -8,12 +8,15 @@ Sou também advogado, pós graduado em direito digital.
 
 <a href="https://lucasvmarangoni.vercel.app/curriculo-lucasvmarangoni.pdf">Currículo</a> <br>
 
-#### Principais Projetos:
+#### Principais Projetos
+<p align="left">
+- <a href="https://github.com/Lucasvmarangoni/sistema-de-documentos-financeiros">Financial file manager</a>  ( Go )<br>
+- <a href="https://github.com/Lucasvmarangoni/currency-converter">Currency Converter (v1.1.0)</a>  ( Typescript - Nest )<br>
+</p>
+
+#### Bibliotecas
 <p align="left">
 - <a href="https://github.com/Lucasvmarangoni/logella">Logella</a> ( Go ) <br>
-- <a href="https://github.com/Lucasvmarangoni/sistema-de-documentos-financeiros">Financial file manager</a>  ( Go )<br>
-- <a href="https://github.com/Lucasvmarangoni/currency-converter">Currency Converter (v1.1.0)</a>  ( NodeJS - Nest )<br>
-- <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t2-grupo-2-paiva-moto-pecas">Paiva Moto Peças</a> ( JavaScript - Frontend )
 </p>
 
 #### Ferramentas
