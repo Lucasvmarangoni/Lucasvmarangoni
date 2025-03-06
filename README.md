@@ -15,7 +15,3 @@
 - <a href="https://github.com/Lucasvmarangoni/logella">Logella</a> ( Go ) <br>
 </p>
 
-#### Ferramentas
-<p align="left">
- - <a href="https://github.com/Lucasvmarangoni/logella">Notes</a> Note-taking app for offline pentest notes.<br>
- </p>
