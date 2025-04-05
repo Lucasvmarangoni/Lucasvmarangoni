@@ -7,7 +7,7 @@
 #### Principais Projetos
 <p align="left">
 - <a href="https://github.com/Lucasvmarangoni/sistema-de-documentos-financeiros">Financial file manager</a>  ( Go )<br>
-- <a href="https://github.com/Lucasvmarangoni/currency-converter">Currency Converter (v1.1.0)</a>  ( Typescript - Nest.js )<br>
+- <a href="https://github.com/Lucasvmarangoni/currency-converter">Currency Converter (v1.1.0)</a>  ( Typescript - Nest )<br>
 </p>
 
 #### Bibliotecas
