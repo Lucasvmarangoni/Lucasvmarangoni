@@ -15,7 +15,7 @@ Below is a list of my main public projects, aside from the pinned projects. Addi
 <div align="center">
 
 
-<table border="0">
+<table border="0" align="center">
   <thead>
     <tr>
       <th width="236em"><strong>Latest Back-end Projects</strong></th>
