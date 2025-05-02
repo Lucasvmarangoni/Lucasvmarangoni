@@ -6,11 +6,11 @@
 <img align="left" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasvmarangoni&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=4&hide_title=true"/>
 
 
-<h4>
+<h3>
 Below is a list of my main public projects, aside from the pinned projects. Additionally, You can also see my projects in my 
 <a href="https://lucasvmarangoni.vercel.app/">portfolio</a>
  or directly on my <a href="https://lucasvmarangoni.vercel.app/curriculo-lucasvmarangoni.pdf">resume</a>.
-</h4>
+</h3>
 
 
 
