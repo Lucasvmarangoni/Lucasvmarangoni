@@ -18,7 +18,7 @@ Below is a list of my main public projects, aside from the pinned projects. Addi
 <table border="0">
   <thead>
     <tr>
-      <th  width="440em"><strong>Latest Back-end Projects</strong></th>
+      <th  width="400em"><strong>Latest Back-end Projects</strong></th>
       <th width="400em"><strong>Libraries</strong></th>
       <th width="400em"><strong>Hacking Tools</strong></th>
       <th width="400em"><strong>Useful Tools</strong></th>
@@ -32,7 +32,7 @@ Below is a list of my main public projects, aside from the pinned projects. Addi
       <td><a href="https://github.com/Lucasvmarangoni/notes">Notes</a> <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="15" align="center" title="Javascript"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Lucasvmarangoni/currency-converter">Currency Converter (v1.1.0)</a> <img src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" width="15" align="center" title="Typescript"/> <img src="https://icon.icepanel.io/Technology/svg/Nest.js.svg" width="15" align="center" title="Nest.js"/></td>
+      <td><a href="https://github.com/Lucasvmarangoni/currency-converter">Currency Converter</a> <img src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" width="15" align="center" title="Typescript"/> <img src="https://icon.icepanel.io/Technology/svg/Nest.js.svg" width="15" align="center" title="Nest.js"/></td>
       <td></td>
       <td></td>
       <td></td>
