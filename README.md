@@ -12,16 +12,16 @@ Below is a list of my main public projects, aside from the pinned projects. Addi
  or directly on my <a href="https://lucasvmarangoni.vercel.app/curriculo-lucasvmarangoni.pdf">resume</a> <br>  
 </p>
 
-<div align="center" width="950em">
+<div align="center">
 
 
 <table border="0">
   <thead>
     <tr>
-      <th  width="400em"><strong>Latest Back-end Projects</strong></th>
-      <th width="400em"><strong>Libraries</strong></th>
-      <th width="400em"><strong>Hacking Tools</strong></th>
-      <th width="400em"><strong>Useful Tools</strong></th>
+      <th width="236em"><strong>Latest Back-end Projects</strong></th>
+      <th width="236em"><strong>Libraries</strong></th>
+      <th width="236em"><strong>Hacking Tools</strong></th>
+      <th width="236em"><strong>Useful Tools</strong></th>
     </tr>
   </thead>
   <tbody>
