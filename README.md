@@ -12,13 +12,34 @@ Below is a list of my main public projects, aside from the pinned projects. Addi
  or directly on my <a href="https://lucasvmarangoni.vercel.app/curriculo-lucasvmarangoni.pdf">resume</a> <br>  <br> <br> <br> <br> 
 </p>
 
-<div align="center">
+<div align="center" width="950em">
 
 
-| **Latest Back-end Projects** | **Libraries** | **Hacking Tools** | **Useful Tools** |
-|---------------------|---------------|-------------------|------------------|
-|  [Financial file manager](https://github.com/Lucasvmarangoni/sistema-de-documentos-financeiros) <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20" align="center" title="Golang"/> |  [Logella](https://github.com/Lucasvmarangoni/logella) <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20" align="center" title="Golang"/> |  [Sockets](https://github.com/Lucasvmarangoni/sockets) <img src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" width="15" align="center" title="Typescript" /> | [Notes](https://github.com/Lucasvmarangoni/notes) <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="15" align="center" title="Javascript"/>  |
-| [Currency Converter (v1.1.0)](https://github.com/Lucasvmarangoni/currency-converter) <img src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" width="15" align="center" title="Typescript"/> <img src="https://icon.icepanel.io/Technology/svg/Nest.js.svg" width="15" align="center" title="Nest.js"/> | | | |
+<table border="0">
+  <thead>
+    <tr>
+      <th  width="440em"><strong>Latest Back-end Projects</strong></th>
+      <th width="400em"><strong>Libraries</strong></th>
+      <th width="400em"><strong>Hacking Tools</strong></th>
+      <th width="400em"><strong>Useful Tools</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Lucasvmarangoni/sistema-de-documentos-financeiros">Financial file manager</a> <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="30" align="center" title="Golang"/></td>
+      <td><a href="https://github.com/Lucasvmarangoni/logella">Logella</a> <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="30" align="center" title="Golang"/></td>
+      <td><a href="https://github.com/Lucasvmarangoni/sockets">Sockets</a> <img src="https://icon.icepanel.io/Technology/svg/Python.svg" width="20" align="center" title="Typescript" /></td>
+      <td><a href="https://github.com/Lucasvmarangoni/notes">Notes</a> <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="15" align="center" title="Javascript"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Lucasvmarangoni/currency-converter">Currency Converter (v1.1.0)</a> <img src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" width="15" align="center" title="Typescript"/> <img src="https://icon.icepanel.io/Technology/svg/Nest.js.svg" width="15" align="center" title="Nest.js"/></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
 
 
   
