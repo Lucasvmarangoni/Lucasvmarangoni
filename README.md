@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4500&pause=9999999&color=375949&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Github+profile!" 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=9999999&color=375949&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Github+profile!" 
 alt="Welcome" 
 width="100%"/>
 </div>
