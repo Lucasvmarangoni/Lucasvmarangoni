@@ -1,48 +1,38 @@
 <div align="center">
   
-# Welcome to my Github profile
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4500&pause=9999999&color=375949&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Github+profile!" 
+alt="Welcome" 
+width="100%"/>
 </div>
 
-<img align="left" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasvmarangoni&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=4&hide_title=true"/>
 
-
-<h3>
-Below is a list of my main public projects, aside from the pinned projects. Additionally, You can also see my projects in my 
-<a href="https://lucasvmarangoni.vercel.app/">portfolio</a>
- or directly on my <a href="https://lucasvmarangoni.vercel.app/curriculo-lucasvmarangoni.pdf">resume</a>.
-</h3>
-
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=999999&color=DCDCDC&center=true&vCenter=true&width=1000&lines=My+main+projects+are+listed+below,+feel+free+to+also+visit+my+portfolio+or+resume." 
+alt="Welcome" 
+width="100%"/>
 
 <div align="center">
-
-
-<table border="0" align="center">
-  <thead>
-    <tr>
-      <th width="236em"><strong>Latest Back-end Projects</strong></th>
-      <th width="236em"><strong>Libraries</strong></th>
-      <th width="236em"><strong>Hacking Tools</strong></th>
-      <th width="236em"><strong>Useful Tools</strong></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/Lucasvmarangoni/sistema-de-documentos-financeiros">Financial file manager</a> <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="30" align="center" title="Golang"/></td>
-      <td><a href="https://github.com/Lucasvmarangoni/logella">Logella</a> <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="30" align="center" title="Golang"/></td>
-      <td><a href="https://github.com/Lucasvmarangoni/sockets">Sockets</a> <img src="https://icon.icepanel.io/Technology/svg/Python.svg" width="20" align="center" title="Typescript" /></td>
-      <td><a href="https://github.com/Lucasvmarangoni/notes">Notes</a> <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="15" align="center" title="Javascript"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Lucasvmarangoni/currency-converter">Currency Converter</a> <img src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" width="15" align="center" title="Typescript"/> <img src="https://icon.icepanel.io/Technology/svg/Nest.js.svg" width="15" align="center" title="Nest.js"/></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-
-
-
-  
+  <a href="https://github.com/Lucasvmarangoni/sistema-de-documentos-financeiros" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucasvmarangoni&repo=sistema-de-documentos-financeiros&theme=github_dark&description_lines_count=1&border_color=3d444d&card_width=250&title_color=375949&icon_color=375949" alt="Financial file manager"/>
+  </a>
+  <a href="https://github.com/Lucasvmarangoni/logella" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucasvmarangoni&repo=logella&theme=github_dark&description_lines_count=1&border_color=3d444d&card_width=250&title_color=375949&icon_color=375949" alt="Logella"/>
+  </a>
+  <a href="https://github.com/Lucasvmarangoni/sockets" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucasvmarangoni&repo=sockets&theme=github_dark&description_lines_count=1&border_color=3d444d&card_width=250&title_color=375949&icon_color=375949" alt="Sockets"/>
+  </a>
+  <a href="https://github.com/Lucasvmarangoni/notes" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucasvmarangoni&repo=notes&theme=github_dark&description_lines_count=1&border_color=3d444d&card_width=250&title_color=375949&icon_color=375949" alt="Notes"/>
+  </a>
+  <a href="https://github.com/Lucasvmarangoni/currency-converter" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucasvmarangoni&repo=currency-converter&theme=github_dark&description_lines_count=1&border_color=3d444d&card_width=250&title_color=375949&icon_color=375949" alt="Currency Converter"/>
+  </a>
+  <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t2-grupo-2-paiva-moto-pecas" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ICEI-PUC-Minas-PMV-ADS&repo=pmv-ads-2023-1-e1-proj-web-t2-grupo-2-paiva-moto-pecas&theme=github_dark&description_lines_count=1&border_color=3d444d&card_width=250&title_color=375949&icon_color=375949" alt="Moto Peças"/>
+  </a>
+  <a href="https://github.com/Lucasvmarangoni/TaskList" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucasvmarangoni&repo=TaskList&theme=github_dark&description_lines_count=1&border_color=3d444d&card_width=250&title_color=375949&icon_color=375949" alt="Task List"/>
+  </a>
+  <a href="https://github.com/Lucasvmarangoni/Portfolio" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucasvmarangoni&repo=Portfolio&theme=github_dark&description_lines_count=1&border_color=3d444d&card_width=250&title_color=375949&icon_color=375949" alt="Portfolio"/>
+  </a>
 </div>
