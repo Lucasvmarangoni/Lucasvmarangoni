@@ -9,7 +9,7 @@
 
 <p>
 Below is a list of my main public projects, aside from the pinned projects. Additionally, You can also see my projects in my <a href="https://lucasvmarangoni.vercel.app/">portfolio</a> <br>
- or directly on my <a href="https://lucasvmarangoni.vercel.app/curriculo-lucasvmarangoni.pdf">resume</a> <br>  <br> <br> <br> <br> 
+ or directly on my <a href="https://lucasvmarangoni.vercel.app/curriculo-lucasvmarangoni.pdf">resume</a> <br>  
 </p>
 
 <div align="center" width="950em">
