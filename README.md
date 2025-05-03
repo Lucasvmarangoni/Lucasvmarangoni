@@ -5,10 +5,26 @@ alt="Welcome"
 width="100%"/>
 </div>
 
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=999999&color=DCDCDC&center=true&vCenter=true&width=1000&lines=My+main+projects+are+listed+below,+feel+free+to+also+visit+my+portfolio." 
 alt="Welcome" 
 width="100%"/>
+
+<div align="center">
+  <a href="https://lucasvmarangoni.vercel.app/" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=999999&color=375949&center=true&vCenter=true&width=250&height=20&lines=Portfolio" 
+    alt="Portfolio"/>
+  </a>
+  <a href="https://lucasvmarangoni.vercel.app/curriculo-lucasvmarangoni-ptbr.pdf" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=999999&color=375949&center=true&vCenter=true&width=250&height=20&lines=Curriculo+(pt-br)" 
+    alt="Curriculo (pt-br)"/>
+  </a>
+  <a href="https://lucasvmarangoni.vercel.app/resume-lucasvmarangoni-en.pdf" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=999999&color=375949&center=true&vCenter=true&width=250&height=20&lines=Resume+(en)" 
+    alt="Resume (en)"/>
+  </a>  
+</div>
+
+<br>
 
 <div align="center">
   <a href="https://github.com/Lucasvmarangoni/sistema-de-documentos-financeiros" target="_blank">
