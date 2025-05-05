@@ -1,12 +1,12 @@
 
 <div align="center">
   
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=9999999&color=375949&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Github+profile!" 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=9999999&color=375949&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Github+profile!" 
 alt="Welcome" 
 width="100%"/>
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=999999&color=DCDCDC&center=true&vCenter=true&width=1000&lines=My+main+projects+are+listed+below,+feel+free+to+also+visit+my+portfolio." 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=999999&color=DCDCDC&center=true&vCenter=true&width=1000&lines=My+main+projects+are+listed+below,+feel+free+to+also+visit+my+portfolio." 
 alt="Welcome" 
 width="100%"/>
 
