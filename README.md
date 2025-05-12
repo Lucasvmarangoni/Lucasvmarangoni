@@ -33,22 +33,22 @@ width="100%"/>
   alt="Software Engineer" />
   
   <a href="https://github.com/Lucasvmarangoni/sistema-de-documentos-financeiros" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucasvmarangoni&repo=sistema-de-documentos-financeiros&theme=github_dark&description_lines_count=1&border_color=3d444d&card_width=250&title_color=375949&icon_color=375949" alt="Financial file manager"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucasvmarangoni&repo=sistema-de-documentos-financeiros&theme=github_dark&description_lines_count=2&border_color=3d444d&card_width=250&title_color=375949&icon_color=375949" alt="Financial file manager"/>
   </a>
   <a href="https://github.com/Lucasvmarangoni/logella" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucasvmarangoni&repo=logella&theme=github_dark&description_lines_count=1&border_color=3d444d&card_width=250&title_color=375949&icon_color=375949" alt="Logella"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucasvmarangoni&repo=logella&theme=github_dark&description_lines_count=2&border_color=3d444d&card_width=250&title_color=375949&icon_color=375949" alt="Logella"/>
   </a>
   <a href="https://github.com/Lucasvmarangoni/currency-converter" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucasvmarangoni&repo=currency-converter&theme=github_dark&description_lines_count=1&border_color=3d444d&card_width=250&title_color=375949&icon_color=375949" alt="Currency Converter"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucasvmarangoni&repo=currency-converter&theme=github_dark&description_lines_count=2&border_color=3d444d&card_width=250&title_color=375949&icon_color=375949" alt="Currency Converter"/>
   </a>
   <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t2-grupo-2-paiva-moto-pecas" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ICEI-PUC-Minas-PMV-ADS&repo=pmv-ads-2023-1-e1-proj-web-t2-grupo-2-paiva-moto-pecas&theme=github_dark&description_lines_count=1&border_color=3d444d&card_width=250&title_color=375949&icon_color=375949" alt="Moto Peças"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ICEI-PUC-Minas-PMV-ADS&repo=pmv-ads-2023-1-e1-proj-web-t2-grupo-2-paiva-moto-pecas&theme=github_dark&description_lines_count=2&border_color=3d444d&card_width=250&title_color=375949&icon_color=375949" alt="Moto Peças"/>
   </a>
 <a href="https://github.com/Lucasvmarangoni/TaskList" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucasvmarangoni&repo=TaskList&theme=github_dark&description_lines_count=1&border_color=3d444d&card_width=250&title_color=375949&icon_color=375949" alt="Task List"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucasvmarangoni&repo=TaskList&theme=github_dark&description_lines_count=2&border_color=3d444d&card_width=250&title_color=375949&icon_color=375949" alt="Task List"/>
   </a>
   <a href="https://github.com/Lucasvmarangoni/Portfolio" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucasvmarangoni&repo=Portfolio&theme=github_dark&description_lines_count=1&border_color=3d444d&card_width=250&title_color=375949&icon_color=375949" alt="Portfolio"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucasvmarangoni&repo=Portfolio&theme=github_dark&description_lines_count=2&border_color=3d444d&card_width=250&title_color=375949&icon_color=375949" alt="Portfolio"/>
 
 <br>
 <br> 
@@ -58,7 +58,7 @@ alt="Ethical Hacker" />
 
 
   <a href="https://github.com/Lucasvmarangoni/sockets" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucasvmarangoni&repo=sockets&theme=github_dark&description_lines_count=1&border_color=3d444d&card_width=250&title_color=375949&icon_color=375949" alt="Sockets"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucasvmarangoni&repo=sockets&theme=github_dark&description_lines_count=2&border_color=3d444d&card_width=250&title_color=375949&icon_color=375949" alt="Sockets"/>
   </a>
   <a href="https://github.com/Lucasvmarangoni/notes" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucasvmarangoni&repo=notes&theme=github_dark&description_lines_count=1&border_color=3d444d&card_width=250&title_color=375949&icon_color=375949" alt="Notes"/>
