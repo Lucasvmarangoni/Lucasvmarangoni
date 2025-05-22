@@ -6,7 +6,7 @@ alt="Welcome"
 width="100%"/>
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=999999&color=DCDCDC&center=true&vCenter=true&width=1000&lines=My+main+projects+are+listed+below,+feel+free+to+also+visit+my+portfolio." 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=999999&color=DCDCDC&center=true&vCenter=true&width=1000&lines=My+main+projects+are+listed+below,+you+can+also+visit+my+portfolio." 
 alt="Welcome" 
 width="100%"/>
 
