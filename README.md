@@ -47,8 +47,7 @@ width="100%"/>
 <a href="https://github.com/Lucasvmarangoni/TaskList" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucasvmarangoni&repo=TaskList&theme=github_dark&description_lines_count=2&border_color=3d444d&card_width=250&title_color=375949&icon_color=375949" alt="Task List"/>
   </a>
-  <a href="https://github.com/Lucasvmarangoni/Portfolio" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucasvmarangoni&repo=Portfolio&theme=github_dark&description_lines_count=2&border_color=3d444d&card_width=250&title_color=375949&icon_color=375949" alt="Portfolio"/>
+
 
 <br>
 <br> 
