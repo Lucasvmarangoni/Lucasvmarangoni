@@ -16,11 +16,11 @@ width="100%"/>
     alt="Portfolio"/>
   </a>
   <a href="https://lucasvmarangoni.vercel.app/resume-lucasvmarangoni-en-offsec.pdf" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=999999&color=375949&center=true&vCenter=true&width=250&height=20&lines=Resume+(pt-br)" 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=999999&color=375949&center=true&vCenter=true&width=250&height=20&lines=Resume+(offsec)" 
     alt="Resume (offsec)"/>
   </a>
   <a href="https://lucasvmarangoni.vercel.app/resume-lucasvmarangoni-en-dev.pdf" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=999999&color=375949&center=true&vCenter=true&width=250&height=20&lines=Resume+(en)" 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=999999&color=375949&center=true&vCenter=true&width=250&height=20&lines=Resume+(dev)" 
     alt="Resume (dev)"/>
   </a>  
 </div>
