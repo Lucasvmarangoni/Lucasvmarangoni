@@ -52,8 +52,8 @@ width="100%"/>
 <br>
 <br> 
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=999999&color=DCDCDC&center=true&vCenter=true&width=250&height=32&lines=Ethical+Hacker" 
-alt="Ethical Hacker" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=999999&color=DCDCDC&center=true&vCenter=true&width=250&height=32&lines=Offensive+Security" 
+alt="Offensive Security" />
 
 
   <a href="https://github.com/Lucasvmarangoni/sockets" target="_blank">
