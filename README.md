@@ -55,7 +55,10 @@ width="100%"/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=999999&color=DCDCDC&center=true&vCenter=true&width=250&height=32&lines=Offensive+Security" 
 alt="Offensive Security" />
 
-
+ <a href="https://github.com/Lucasvmarangoni/xlsx-xss-sheetname-generator" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucasvmarangoni&repo=xlsx-xss-sheetname-generator&theme=github_dark&description_lines_count=2&border_color=3d444d&card_width=250&title_color=375949&icon_color=375949" alt="xlsx-xss-sheetname-generator"/>
+  </a>
+  
   <a href="https://github.com/Lucasvmarangoni/sockets" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucasvmarangoni&repo=sockets&theme=github_dark&description_lines_count=2&border_color=3d444d&card_width=250&title_color=375949&icon_color=375949" alt="Sockets"/>
   </a>
